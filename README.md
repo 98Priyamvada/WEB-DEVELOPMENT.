@@ -70,16 +70,8 @@ Keeper |  Keeper Note Pop Up
 ### Emojipedia w/ React Components & Props
 ![Screen Shot 2019-12-03 at 7 02 49 PM](https://user-images.githubusercontent.com/19628705/70109011-86c32080-15ff-11ea-91d1-bca52691f9c4.png)
 
-## Authentication, Security, Auth2.0 w/ Google
-![Screen Shot 2019-10-11 at 11 38 17 PM](https://user-images.githubusercontent.com/19628705/66696735-4be9df80-ec83-11e9-905f-4c1290ef716e.png)
-
 ## Blog Website (EJS, Node.js, Express.js, Lodash)
 ![Screen Shot 2019-07-10 at 10 46 33 PM](https://user-images.githubusercontent.com/19628705/61025198-c2b1cc80-a364-11e9-8f07-8064781ee30d.png)
-
-## Newsletter Signup Page (Node.js, Express.js, Mailchimp API, & Heroku)
-Newsletter Signup Page |  MailChimp Persistence
-:-------------------------:|:-------------------------:
- ![](https://user-images.githubusercontent.com/19628705/59819146-877b2b00-92db-11e9-94a2-382ec1c9923a.png)
 
 ## Simon Game (jQuery & JavaScript)
 ![simongame](https://user-images.githubusercontent.com/19628705/56182300-5a9e5500-5fc6-11e9-9014-a54a6e84fcdd.gif)
